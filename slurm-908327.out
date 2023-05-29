@@ -1,0 +1,11 @@
+mixture_421_qSXuOkxLilMlvHJ_2021-08-1518:18:44.665015+00:00OPLaK.wav
+Traceback (most recent call last):
+  File "COV_TASNET.py", line 28, in <module>
+    subprocess.call(["python", "Conv_TasNet_Pytorch/Separation_wav.py", "-mix_scp", os.path.join(root,file), "-yaml", "Conv_TasNet_Pytorch/options/train/train.yml", "-model", "Conv_TasNet_Pytorch/checkpoint/best.pt", "-gpuid", [0,1,2,3,4,5,6,7], "-save_path", store_path+name+"/"])
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/subprocess.py", line 339, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/subprocess.py", line 800, in __init__
+    restore_signals, start_new_session)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/subprocess.py", line 1482, in _execute_child
+    restore_signals, start_new_session, preexec_fn)
+TypeError: expected str, bytes or os.PathLike object, not list

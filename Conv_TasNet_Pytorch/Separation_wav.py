@@ -7,7 +7,7 @@ import argparse
 from torch.nn.parallel import data_parallel
 from Conv_TasNet import ConvTasNet
 from utils import get_logger
-from option import parse
+from options.option import parse
 import tqdm
 
 
@@ -26,7 +26,7 @@ class Separation():
             gpuid[0]) if len(gpuid) > 0 else 'cpu')
         self.gpuid=tuple(gpuid)
 
-    def inference(self, file_path):
+    def inference(self, file_path,args):
         with torch.no_grad():
             egs=self.mix
             norm = torch.norm(egs,float('inf'))
@@ -42,8 +42,8 @@ class Separation():
                 #norm
                 s = s*norm/torch.max(torch.abs(s))
                 index += 1
-                os.makedirs(file_path+'/spk'+str(index), exist_ok=True)
-                filename=file_path+'/spk'+str(index)+'/test.wav'
+                os.makedirs(file_path+'/source'+str(index), exist_ok=True)
+                filename=file_path+'/source'+str(index)+'/'+args.mix_scp.split('/')[-1]
                 print(s.shape)
                 write_wav(filename, s.unsqueeze(0), 8000)
         self.logger.info("Compute over {:d} utterances".format(len(self.mix)))
@@ -64,7 +64,7 @@ def main():
     args=parser.parse_args()
     gpuid=[int(i) for i in args.gpuid.split(',')]
     separation=Separation(args.mix_scp, args.yaml, args.model, gpuid)
-    separation.inference(args.save_path)
+    separation.inference(args.save_path,args)
 
 
 if __name__ == "__main__":

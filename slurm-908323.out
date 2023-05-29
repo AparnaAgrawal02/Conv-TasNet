@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 71, in <module>
+    main()
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 65, in main
+    gpuid=[int(i) for i in args.gpuid.split(',')]
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 65, in <listcomp>
+    gpuid=[int(i) for i in args.gpuid.split(',')]
+ValueError: invalid literal for int() with base 10: '[0'
+slurmstepd: error: *** JOB 908323 ON gnode081 CANCELLED AT 2023-05-28T23:20:23 ***

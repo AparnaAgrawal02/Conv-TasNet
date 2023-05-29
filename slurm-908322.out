@@ -1,0 +1,242 @@
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from option import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from optoption import parse
+ModuleNotFoundError: No module named 'option'
+Traceback (most recent call last):
+  File "Conv_TasNet_Pytorch/Separation_wav.py", line 10, in <module>
+    from options.option import parse
+ModuleNotFoundError: No module named 'optoption'
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_41.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_219.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_65.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_194.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_239.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_212.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_52.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_72.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_152.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_203.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_221.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_71.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_104.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_151.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_108.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_111.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_193.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_178.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_117.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_200.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_210.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_110.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_22.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_30.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_118.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_112.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_70.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_25.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_139.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_6.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_146.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_201.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_165.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_69.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_100.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_132.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_46.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_191.wav
+usage: Separation_wav.py [-h] [-mix_scp MIX_SCP] [-yaml YAML] [-model MODEL]
+                         [-gpuid GPUID] [-save_path SAVE_PATH]
+Separation_wav.py: error: unrecognized arguments: -mix_wav /scratch/aparna/REAL-M-v0.1.0/audio_files_converted_8000Hz/early_collection1/early_collection1_mixture_68.wav
+slurmstepd: error: *** JOB 908322 ON gnode081 CANCELLED AT 2023-05-28T23:20:14 ***

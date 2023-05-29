@@ -1,0 +1,232 @@
+2023-05-28 23:23:25 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:25 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:25 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:26 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 29760 utterances
+torch.Size([29760])
+torch.Size([29760])
+2023-05-28 23:23:28 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:28 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:28 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:28 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 38880 utterances
+torch.Size([38880])
+torch.Size([38880])
+2023-05-28 23:23:30 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:30 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:30 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:31 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 19200 utterances
+torch.Size([19200])
+torch.Size([19200])
+2023-05-28 23:23:33 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:33 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:33 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:34 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 41760 utterances
+torch.Size([41760])
+torch.Size([41760])
+2023-05-28 23:23:36 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:36 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:36 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:37 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 38880 utterances
+torch.Size([38880])
+torch.Size([38880])
+2023-05-28 23:23:39 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:39 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:39 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:39 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 33600 utterances
+torch.Size([33600])
+torch.Size([33600])
+2023-05-28 23:23:41 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:41 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:42 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:42 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 23040 utterances
+torch.Size([23040])
+torch.Size([23040])
+2023-05-28 23:23:44 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:44 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:44 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:45 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 23520 utterances
+torch.Size([23520])
+torch.Size([23520])
+2023-05-28 23:23:47 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:47 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:47 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:47 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 40800 utterances
+torch.Size([40800])
+torch.Size([40800])
+2023-05-28 23:23:50 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:50 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:50 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:50 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 46080 utterances
+torch.Size([46080])
+torch.Size([46080])
+2023-05-28 23:23:52 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:52 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:53 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:53 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 44640 utterances
+torch.Size([44640])
+torch.Size([44640])
+2023-05-28 23:23:55 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:55 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:55 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:56 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 44736 utterances
+torch.Size([44736])
+torch.Size([44736])
+2023-05-28 23:23:58 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:23:58 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:23:58 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:23:59 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 54144 utterances
+torch.Size([54144])
+torch.Size([54144])
+2023-05-28 23:24:01 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:01 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:01 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:02 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 58933 utterances
+torch.Size([58928])
+torch.Size([58928])
+2023-05-28 23:24:04 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:04 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:04 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:05 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 49344 utterances
+torch.Size([49344])
+torch.Size([49344])
+2023-05-28 23:24:07 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:07 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:07 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:08 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 63530 utterances
+torch.Size([63528])
+torch.Size([63528])
+2023-05-28 23:24:10 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:10 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:10 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:11 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 63168 utterances
+torch.Size([63168])
+torch.Size([63168])
+2023-05-28 23:24:13 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:13 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:13 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:13 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 44736 utterances
+torch.Size([44736])
+torch.Size([44736])
+2023-05-28 23:24:16 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:16 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:16 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:17 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 91008 utterances
+torch.Size([91008])
+torch.Size([91008])
+2023-05-28 23:24:19 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:19 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:19 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:20 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 61056 utterances
+torch.Size([61056])
+torch.Size([61056])
+2023-05-28 23:24:22 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:22 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:23 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:24 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 72000 utterances
+torch.Size([72000])
+torch.Size([72000])
+2023-05-28 23:24:26 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:26 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:26 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:27 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 52224 utterances
+torch.Size([52224])
+torch.Size([52224])
+2023-05-28 23:24:29 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:29 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:29 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:30 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 65088 utterances
+torch.Size([65088])
+torch.Size([65088])
+2023-05-28 23:24:32 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:32 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:32 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:33 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 55488 utterances
+torch.Size([55488])
+torch.Size([55488])
+2023-05-28 23:24:35 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:35 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:35 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:36 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 48768 utterances
+torch.Size([48768])
+torch.Size([48768])
+2023-05-28 23:24:38 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:38 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:38 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:38 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 54144 utterances
+torch.Size([54144])
+torch.Size([54144])
+2023-05-28 23:24:41 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:41 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:41 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:41 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 41856 utterances
+torch.Size([41856])
+torch.Size([41856])
+2023-05-28 23:24:43 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:43 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:43 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:44 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 86208 utterances
+torch.Size([86208])
+torch.Size([86208])
+2023-05-28 23:24:46 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:46 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:47 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:48 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 75442 utterances
+torch.Size([75440])
+torch.Size([75440])
+2023-05-28 23:24:50 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:50 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:50 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:51 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 59769 utterances
+torch.Size([59768])
+torch.Size([59768])
+2023-05-28 23:24:53 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:53 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:53 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:54 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 52800 utterances
+torch.Size([52800])
+torch.Size([52800])
+2023-05-28 23:24:56 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:56 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:56 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:24:57 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 75456 utterances
+torch.Size([75456])
+torch.Size([75456])
+2023-05-28 23:24:59 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:24:59 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:24:59 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:00 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 80458 utterances
+torch.Size([80456])
+torch.Size([80456])
+2023-05-28 23:25:02 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:02 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:02 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:03 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 73344 utterances
+torch.Size([73344])
+torch.Size([73344])
+2023-05-28 23:25:05 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:05 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:05 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:06 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 45312 utterances
+torch.Size([45312])
+torch.Size([45312])
+2023-05-28 23:25:08 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:08 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:08 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:09 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 47424 utterances
+torch.Size([47424])
+torch.Size([47424])
+2023-05-28 23:25:11 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:11 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:11 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:12 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 56843 utterances
+torch.Size([56840])
+torch.Size([56840])
+2023-05-28 23:25:14 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:14 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:14 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+2023-05-28 23:25:15 [Conv_TasNet_Pytorch/Separation_wav.py:49 - INFO ] Compute over 70656 utterances
+torch.Size([70656])
+torch.Size([70656])
+2023-05-28 23:25:17 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:13 - INFO ] Reading .yml file .......
+2023-05-28 23:25:17 [/home2/aparna/Speaker_seperation_Thread/baselines/Conv-TasNet/Conv_TasNet_Pytorch/options/option.py:19 - INFO ] Export CUDA_VISIBLE_DEVICES = 0,1,2,3,6,7
+2023-05-28 23:25:17 [Conv_TasNet_Pytorch/Separation_wav.py:23 - INFO ] Load checkpoint from Conv_TasNet_Pytorch/checkpoint/best.pt, epoch  70
+slurmstepd: error: *** JOB 908328 ON gnode081 CANCELLED AT 2023-05-28T23:25:18 ***
